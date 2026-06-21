@@ -36,7 +36,8 @@ p {
 }
 h2 {
 font-size: 1.86rem;
-margin: 0 auto 2rem auto;
+margin-bottom: 2rem;
+text-align: center;
 }
 
 h3{
@@ -185,4 +186,5 @@ max-width: 90%;
 background-color: rgb(245, 245, 235);
 border-radius: 2rem;
 box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07);
+padding: 20px;
 }
